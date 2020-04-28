@@ -1,0 +1,8 @@
+# Email-Grabber-Eb
+Hijack hiden emails on anywebsite even google.
+
+# SUPPORTED PLATFORM
+ANY-PLATFORM WITH PYTHON
+
+# DON'T KNOW HOW TO INSTALL ?
+THERE IS A VIDEO TUTORIAL HOW TO USE THIS TOOL.
